@@ -1,0 +1,29 @@
+{
+  "name": "错题本 - 智能间隔复习",
+  "short_name": "错题本",
+  "description": "云端同步的智能错题本，支持间隔复习和多设备互通",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FBF7EE",
+  "theme_color": "#B23A2E",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "productivity"]
+}
